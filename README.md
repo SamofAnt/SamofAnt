@@ -25,7 +25,7 @@
 ## Skills
 - 💬 English intermediately
 - ⌚️ The fastest learning technologies
-- I spend programming 6 hours a day
+- ✨ I spend programming 6 hours a day
 
 ### Social
 [<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/telegram.svg"/>] (https://t.me/samof_ant)
