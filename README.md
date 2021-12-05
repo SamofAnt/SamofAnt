@@ -15,8 +15,8 @@
 
 ## Stack
 - 🤟Language: C++, C#, Blazor, ASP.NET Core, PostgreSql, ReactJS, JavaScript
--Frontend: React, Blazor, JavaScript, HTML, CSS
--Backend: C#, ASP.NET Core, SQL
+- Frontend: React, Blazor, JavaScript, HTML, CSS
+- Backend: C#, ASP.NET Core, SQL
 
 ## Carrier Line
 - 👨‍🎓 Study at the Moscow University of Transport RUT-MIIT (September 2019 -> [currently]).
