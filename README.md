@@ -28,9 +28,9 @@
 - ✨ I spend programming 6 hours a day
 
 ### Social
-[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/telegram.svg"/>] (https://t.me/samof_ant)
-[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/vk.svg"/>] (https://vk.com/smfant)
-[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/instagram.svg"/>] (https://www.instagram.com/samof_ant/?r=nametag)
+[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/telegram.svg"/>](https://t.me/samof_ant)
+[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/vk.svg"/>](https://vk.com/smfant)
+[<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/instagram.svg"/>](https://www.instagram.com/samof_ant/?r=nametag)
 
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamofAnt&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=aura)
