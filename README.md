@@ -5,7 +5,7 @@
 
 ## Facts
 - ✨ I’m 19, have been learning programming over 1,5 years
-- 🔭 I’m currently working on (https://superdupershop.azurewebsites.net/Catalog)
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ASP.NET Core
 - 👯 I’m looking to collaborate on a big project
 - 🤔 I’m looking for help with patterns and their use
