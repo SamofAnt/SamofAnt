@@ -14,7 +14,7 @@
 - ❤️ I love Programming and very like growing experience in that.
 
 ## Stack
-- 🤟Language: C++, C#, Blazor, ASP.NET Core, PostgreSql, ReactJS, JavaScript
+- 🤟Language: C++, C#, Blazor, ASP.NET Core, PostgreSql, ReactJS, JavaScript, MongoDB
 - Frontend: React, Blazor, JavaScript, HTML, CSS
 - Backend: C#, ASP.NET Core, SQL
 
