@@ -30,6 +30,7 @@
 
 ## My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamofAnt)](https://github.com/anuraghazra/github-readme-stats&theme=aura)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Social
 [<img align="left" width="22px" alt="TheEviLShot | Telegram" src= "https://simpleicons.org/icons/telegram.svg"/>](https://t.me/samof_ant)
