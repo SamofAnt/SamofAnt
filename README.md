@@ -19,7 +19,7 @@
 - Backend: C#, ASP.NET Core, SQL
 
 ## Carrier Line
-- 👨‍🎓 Study at the Moscow University of Transport RUT-MIIT (September 2019 -> [currently]).
+- 👨‍🎓 Study at the University (September 2019 -> [currently]).
 - 💻 Study at the ITSTEP Computer Academy (May 2020 -> [currently]).
 
 ## Skills
