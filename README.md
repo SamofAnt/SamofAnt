@@ -4,7 +4,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamofAnt&show_icons=true&theme=aura)
 
 ## Facts
-- ✨ I’m 20, have been learning programming over 1,5 years
+- ✨ I have been learning programming over 1,5 years
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ASP.NET Core
 - 👯 I’m looking to collaborate on a big project
