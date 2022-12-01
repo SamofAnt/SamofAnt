@@ -4,14 +4,14 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamofAnt&show_icons=true&theme=aura)
 
 ## Facts
-- ✨ I have been learning programming over 1,5 years
+- ✨ I have been learning programming for over 1,5 years
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning ASP.NET Core
-- 👯 I’m looking to collaborate on a big project
+- 👯 I’m looking for collaboration in a big project
 - 🤔 I’m looking for help with patterns and their use
-- 💼 I have not career experience
-- 👯‍♂️ I have no one work in team
-- ❤️ I love Programming and very like growing experience in that.
+- 💼 I have no career experience
+- 👯‍♂️ I have no teamwork experience 
+- ❤️ Programming is my passion.
 
 ## Stack
 - 🤟Language: C++, C#, Blazor, ASP.NET Core, PostgreSql, ReactJS, JavaScript, MongoDB
@@ -23,9 +23,9 @@
 - 💻 Study at the ITSTEP Computer Academy (May 2020 -> [currently]).
 
 ## Skills
-- 💬 English intermediately
-- ⌚️ The fastest learning technologies
-- ✨ I spend programming 6 hours a day
+- 💬 English intermediate
+- ⌚️ Fast learning
+- ✨ I spend on programming 6 hours a day
 
 
 ## My Stats
